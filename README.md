@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi, I'm Chizaram 👋
 
-<!--
-**ZaramNelo/ZaramNelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student focused on building reliable software systems, cloud infrastructure, and scalable backend services.
 
-Here are some ideas to get you started:
+I enjoy working on projects that combine software engineering, automation, and cloud technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Technologies & Tools
+- Languages: JavaScript, TypeScript, Python, Java, SQL, Elixir
+- Backend: Node.js, Express, REST APIs
+- Frontend: React, Next.js
+- Cloud & DevOps: AWS, Docker, Kubernetes, Terraform
+- Databases: PostgreSQL, MySQL
+- Tools: Git, Linux, Trello
+
+## 🚀 Projects
+**Cloud Infrastructure Automation**
+- Built infrastructure using Terraform to launch and destroy AWS services automatically
+- Automated cloud resource provisioning for scalable deployments
+
+**Full Stack Web Applications**
+- Developed React and Next.js applications with internationalization support (English and French)
+- Built backend APIs and handled database integrations
+
+**Backend & Database Systems**
+- Debugged and optimized backend services handling large volumes of API data
+- Improved database queries and resolved schema related issues
+
+## 📚 Currently Learning
+- Distributed systems
+- Cloud architecture
+- Infrastructure automation
+- System design
+
+## 📫 Connect With Me
+- LinkedIn: (add your link)
+- GitHub: https://github.com/YOUR_USERNAME
+
+---
+
+Always interested in learning new technologies and collaborating on interesting projects.
