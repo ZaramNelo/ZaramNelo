@@ -1,5 +1,18 @@
 # Hi, I'm Chizaram 👋
 
-Computer Science student focused on building reliable software systems, cloud infrastructure, and scalable backend services.
+CS student at **Toronto Metropolitan University** building reliable backend systems, cloud infrastructure, and applied ML.
 
-I enjoy working on projects that combine software engineering, AI automation, and cloud technologies.
+- 🔐 **DevSecOps Intern** at Purpose Unlimited
+- ☁️ **AWS Certified Cloud Practitioner**
+
+## 🔭 Currently building
+
+**[Predictive ER Admission Engine](https://github.com/ZaramNelo/Predictive-ER-Admission-Engine)**: an ML model that predicts at triage whether an ER patient will need a hospital bed, helping hospitals start bed planning hours earlier. Tuned for sensitivity and explained with SHAP.
+
+## 🛠️ Tech
+
+`Python` · `AWS` · `scikit-learn` · `LightGBM` · `Docker` · `Git` · `CI/CD`
+
+## 📫 Connect
+
+[LinkedIn](www.linkedin.com/in/chizaram-agbanelo) · [Email](mailto:chizaramagbanelo@gmail.com)
