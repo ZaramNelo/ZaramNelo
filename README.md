@@ -11,7 +11,7 @@ CS student at **Toronto Metropolitan University** building reliable backend syst
 
 ## 🛠️ Tech
 
-`Python` · `AWS` · `scikit-learn` · `LightGBM` · `Docker` · `Git` · `CI/CD`
+`Python` · `AWS` · `scikit-learn` · `Pytorch` · `Docker` · `Git` · `CI/CD`
 
 ## 📫 Connect
 
